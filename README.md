@@ -22,3 +22,12 @@ Check out the live version at [LLM Tokenizers](http://tokenizers.darkngo.tech).
 </h2>
 
 If you like and find this repository useful, please consider giving me a ⭐.
+
+## Todos
+
+- [x] GPT
+- [x] Gemini
+- [x] Claude (1; 2) 
+- [ ] Claude (3; 3.5)
+- [ ] LLama
+- [ ] Mistral

@@ -6,6 +6,8 @@ Code by 🧑‍💻**Dark Ngo**.
 
 Welcome to LLM Tokenizers! This repository provides a tool to easily explore the world of large language models by entering your text, selecting your preferred LLM, and receiving a detailed tokenized output. Our system provides a list of tokens, token IDs, token count, and character count, all in an instant. Discover how language models process text with our user-friendly and intuitive tool.
 
+Check out the live version at [LLM Tokenizers](http://tokenizers.darkngo.tech).
+
 ## Key Features
 
 - **Easy Text Tokenization**: Enter your text and receive detailed tokenized output instantly.
@@ -18,3 +20,5 @@ Welcome to LLM Tokenizers! This repository provides a tool to easily explore the
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/datnnt1997/llm_tokenizers/master/statics/screenshot.png" width="680" height="400">
 </h2>
+
+If you like and find this repository useful, please consider giving me a ⭐.

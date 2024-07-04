@@ -16,5 +16,5 @@ Welcome to LLM Tokenizers! This repository provides a tool to easily explore the
 
 ## Demo
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/datnnt1997/llm_tokenizers/master/statics/screenshot_1.png" width="680" height="400">
+  <img src="https://raw.githubusercontent.com/datnnt1997/llm_tokenizers/master/statics/screenshot.png" width="680" height="400">
 </h2>
